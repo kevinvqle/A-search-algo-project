@@ -1,2 +1,2 @@
-# A-search-algo-project
+# A*-search-algo-project
 a project utilizing A* search in python
